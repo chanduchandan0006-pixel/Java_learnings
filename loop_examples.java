@@ -35,7 +35,7 @@ class SumExample {
         }
         
         System.out.println("Sum of 1 to 10: " + sum);
-    }
+    }  
 }
 
 // Example 5: while loop
